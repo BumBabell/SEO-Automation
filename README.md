@@ -1,4 +1,4 @@
-# VTechys SEO Platform
+
 
 **An SEO tool that doesn't stop at "here's what's wrong."**
 
@@ -149,8 +149,7 @@ one actually answered — so a degraded fallback is traceable, not hidden.
 
 ## License
 
-Proprietary — all rights reserved. See [LICENSE](LICENSE). This is
-VTechys client work, not an open-source project.
+Proprietary — all rights reserved. 
 
 ## Contributing
 
