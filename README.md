@@ -10,6 +10,7 @@ without a person clicking approve first, and every deploy is reversible.
 ---
 
 ## What makes this different
+# The loop is working
 
 - **The loop actually closes.** Detected issues become AI-drafted fixes
   (title tags, meta descriptions, H1s, image alt text) that a human
